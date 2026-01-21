@@ -18,3 +18,4 @@ Empower developers and users to **interact with Stellar accounts effortlessly**,
 * Telegram: Coming soon
 * Twitter/X: Coming soon
 * Email: [contact@muxlabs.io](mailto:contact@hello@adde.work)
+* Personal Telegram: @addegbenga
